@@ -1,4 +1,4 @@
-package com.sparta.springresttepliateclient;
+package com.sparta.springresttemplateclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
